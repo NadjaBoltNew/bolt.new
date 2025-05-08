@@ -1,0 +1,14 @@
+# Security Policy
+
+## Supported Versions
+We actively maintain the following versions of Thrive with EQ:
+- v1.x (current)
+
+## Reporting a Vulnerability
+Please email support@thrivewitheq.com rather than opening a public issue.  
+We’ll keep your report private until we have a fix.
+
+## Response Timeline
+- Acknowledgement within 48 hours  
+- Patch or mitigation within 7 days
+
